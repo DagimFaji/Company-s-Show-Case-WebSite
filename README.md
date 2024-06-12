@@ -1,4 +1,3 @@
-# Company-s-Show-Case-WebSite
 # Kingdom (Ethiopia) Linen PLC Web Design
 
 **Author: Dagim Faji**
